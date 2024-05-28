@@ -8,9 +8,7 @@ _Sou Mateus e sou um verdadeiro geek apaixonado por jogos de tiro como Valorant 
 ![](https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif)
 
 
-Códigos utilizados no perfil
-
-![]() = gif
+Códigos utilizados no perfil:
 
 fontes cursivas cujo desenho das letras minúsculas baseia-se numa estilizada forma caligráfica. = itálica = -
 
