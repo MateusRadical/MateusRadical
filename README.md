@@ -1,16 +1,19 @@
-## Hi there 👋
+## **Prazer Mateus**
 
-<!--
-**MateusRadical/MateusRadical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Contato:fodase1969@gmail.com*
 
-Here are some ideas to get you started:
+_sou estudandente do ensino médio e estudo:[Alura](https://www.alura.com.br/)_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Sou Mateus e sou um verdadeiro geek apaixonado por jogos de tiro como Valorant e pelo universo Pokémon. Além de sua habilidade nos videogames, ele também é um ávido estudante, sempre buscando aprender mais sobre diversos assuntos. Nas horas de relaxamento, ele curte a música de Veigh. Sua vida é uma mistura de aventuras virtuais, estudo e cultura nerd, além de desenvolver jogos onlines._
+![](https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif)
+
+
+Códigos utilizados no perfil
+
+![]() = gif
+
+fontes cursivas cujo desenho das letras minúsculas baseia-se numa estilizada forma caligráfica. = itálica = -
+
+negrito= **
+
+Readme = Um arquivo readme contém informação sobre outros arquivos num diretório ou arquivo.
